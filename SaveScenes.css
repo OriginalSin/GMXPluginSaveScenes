@@ -1,3 +1,4 @@
-.leaflet-contextmenu a select.select-item {
+.leaflet-contextmenu a select.select-items {
     opacity: 1;
+    height: inherit;
 }
